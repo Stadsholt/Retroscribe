@@ -29,11 +29,15 @@ Alongside the coding prototype, we also designed a Figma mock-up of the applicat
 **Home Screen**
 
 Allows quick access to your current book and library. Upload new books and start reading instantly.
+
+<img src="https://github.com/user-attachments/assets/06017a1c-3151-40cb-90f3-13677b6a5543" width="500"/>
+
 ![Home Screen](https://github.com/user-attachments/assets/06017a1c-3151-40cb-90f3-13677b6a5543)
 
 **Reading Interface**  
 Read your rewritten text in a distraction-free format. Use a slider to compare with the original and offer feedback on phrasing.
-![Reading Interface](https://github.com/user-attachments/assets/83e5994e-4ee4-4363-8471-041d352624ab)
+
+<img src="https://github.com/user-attachments/assets/83e5994e-4ee4-4363-8471-041d352624ab" width="500"/>
 
 ## Tech Stack
 
